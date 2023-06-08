@@ -1,3 +1,0 @@
-#!/bin/bash
-curent_dir= $(pwd)
-echo "$current_dir"
